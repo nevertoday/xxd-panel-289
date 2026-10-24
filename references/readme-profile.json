@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 289｜Folk Mark: keeps the photo and turns its subject into one small naive folk symbol, like a handmade stamp, an old picture-book sign or a private collector's logo — one core form, action or outline with its most identifying feature gently exaggerated, rounded slightly clumsy contours and natural pauses in the line — in dry gouache, wax crayon and coloured pencil with paper fibres, chalky pigment, light ink drop-out and risograph print imperfection, in a warm low-saturation palette of warm ivory, misty blue, plant green, soft coral, pale yellow, grey pink and natural brown from the photo, small in generous whitespace with a tiny collector's-label style word. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-289 or asks for a naive folk icon, handmade print stamp or old picture-book symbol from a photo.",
+  "short_description": "民艺记号：把照片主体收成一枚夸张了特征、带粉质颗粒的稚拙民艺小印章",
+  "zh-CN": {
+    "name": "民艺记号",
+    "tagline": "把照片主体收成一枚放大了特征、像手工印出来的稚拙民艺小符号。",
+    "look": "原照片保留；只留一个核心形态、一个动作或一个轮廓，把最能认出它的特征略微夸张，轮廓圆润、比例略笨，线条有自然的停顿和手工误差，像旧绘本里的符号或手工印章。用干水粉、蜡笔和彩铅，带纸张纤维、粉质颜料、轻微掉墨和 Risograph 般的旧印刷感。颜色从照片里调成暖象牙、雾蓝、植物绿、柔和珊瑚、浅黄、灰粉、自然棕这类低饱和暖色。符号小，可居中或偏心，留白大，旁边一个极短的字像收藏标签。",
+    "traits": [
+      "稚拙民艺",
+      "手工印章",
+      "旧绘本符号",
+      "粉质颗粒",
+      "温暖色盘"
+    ],
+    "good": [
+      "有一个特别好认特征的主体：长耳朵的兔子、大尾巴的松鼠、尖屋顶的小屋",
+      "有一个简单动作的瞬间：浇花的人、啄食的鸡、蜷着睡觉的猫",
+      "想做成手工印章、包装小标或私人收藏标签的照片"
+    ],
+    "poor": [
+      "需要精确比例或写实细节的照片：产品图、证件照、机械结构",
+      "想要鲜艳、高饱和或荧光配色的用途",
+      "想要商业 Logo、标准吉祥物、卡通 IP 或光滑矢量效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Folk Mark",
+    "tagline": "Turns the subject of your photo into one small, hand-printed naive folk symbol with its key feature enlarged.",
+    "look": "Your photo stays; only one core form, action or outline is kept, with its most recognisable feature gently exaggerated, rounded contours, slightly clumsy proportions and natural pauses and wobbles in the line, like a sign from an old picture book or a hand-carved stamp. It is made in dry gouache, wax crayon and coloured pencil, with paper fibres, chalky pigment, light ink drop-out and a risograph-like old-print feel. Colours from the photo become warm, low-saturation tones: warm ivory, misty blue, plant green, soft coral, pale yellow, grey pink and natural brown. The symbol is small, centred or off-centre, in generous whitespace, with one very short word like a collector's label.",
+    "traits": [
+      "Naive folk art",
+      "Handmade stamp",
+      "Picture-book symbol",
+      "Chalky grain",
+      "Warm palette"
+    ],
+    "good": [
+      "Subjects with one very recognisable feature: a long-eared rabbit, a bushy-tailed squirrel, a cottage with a pointed roof",
+      "Moments with one simple action: someone watering plants, a hen pecking, a cat curled up asleep",
+      "Photos you want as a handmade stamp, a small packaging label or a private collection tag"
+    ],
+    "poor": [
+      "Photos that need exact proportions or realistic detail: product shots, ID photos, mechanical parts",
+      "Uses that need bright, saturated or fluorescent colour",
+      "Requests for a commercial logo, a standard mascot, a cartoon character or smooth vectors"
+    ]
+  },
+  "ja": {
+    "name": "民藝のしるし",
+    "tagline": "写真の主役を、特徴を少し誇張した、手で刷ったような素朴な民藝の小さな記号にします。",
+    "look": "元の写真は残し、核となる形、動作、輪郭のどれかひとつだけを残して、いちばん見分けやすい特徴を少し誇張します。輪郭は丸く、比率は少し不器用で、線には自然な間と手のぶれがあり、古い絵本の記号や手彫りのはんこのようです。乾いたガッシュ、クレヨン、色鉛筆で描き、紙の繊維、粉っぽい顔料、軽いかすれ、リソグラフのような古い刷りの風合いが残ります。色は写真から、温かなアイボリー、霧の青、植物の緑、柔らかなコーラル、淡い黄、灰がかったピンク、自然な茶など、彩度の低い暖色に整えます。記号は小さく、中央か少しずらして置かれ、余白は大きく、コレクションのラベルのような短い言葉がひとつ添えられます。",
+    "traits": [
+      "素朴な民藝",
+      "手作りのはんこ",
+      "古い絵本の記号",
+      "粉っぽい粒子",
+      "温かな配色"
+    ],
+    "good": [
+      "見分けやすい特徴がひとつある主役：耳の長いうさぎ、しっぽの大きなリス、とんがり屋根の小屋",
+      "シンプルな動作のある瞬間：花に水をやる人、餌をついばむ鶏、丸まって眠る猫",
+      "手作りのはんこ、包装の小さなラベル、個人コレクションのタグにしたい写真"
+    ],
+    "poor": [
+      "正確な比率や写実的な細部が必要な写真：商品写真、証明写真、機械の構造",
+      "鮮やかで彩度の高い色や蛍光色が必要な用途",
+      "商業ロゴ、定番のマスコット、キャラクター、なめらかなベクターを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "민예 표식",
+    "tagline": "사진 속 주인공을 특징을 살짝 키운, 손으로 찍어 낸 듯한 소박한 민예 작은 심벌로 만듭니다.",
+    "look": "원본 사진은 남기고, 핵심 형태나 동작, 윤곽 하나만 남겨 가장 알아보기 쉬운 특징을 살짝 과장합니다. 윤곽은 둥글고 비례는 조금 어설프며, 선에는 자연스러운 멈춤과 손떨림이 있어 옛 그림책의 기호나 손으로 판 도장 같습니다. 마른 과슈, 크레용, 색연필로 그려 종이 섬유, 분말 같은 안료, 살짝 빠진 잉크, 리소그래프 같은 옛 인쇄감이 남습니다. 색은 사진에서 따뜻한 상아색, 안개 파랑, 식물 초록, 부드러운 코랄, 연노랑, 회분홍, 자연스러운 갈색처럼 채도 낮은 따뜻한 색으로 정리합니다. 심벌은 작고 가운데나 한쪽에 놓이며 여백은 넓고, 수집품 라벨 같은 아주 짧은 단어 하나가 붙습니다.",
+    "traits": [
+      "소박한 민예",
+      "수제 도장",
+      "옛 그림책 기호",
+      "분말 같은 입자",
+      "따뜻한 색"
+    ],
+    "good": [
+      "알아보기 쉬운 특징이 하나 있는 주인공: 귀가 긴 토끼, 꼬리가 풍성한 다람쥐, 뾰족 지붕 오두막",
+      "단순한 동작이 있는 순간: 꽃에 물 주는 사람, 모이를 쪼는 닭, 몸을 말고 자는 고양이",
+      "수제 도장, 포장용 작은 라벨, 개인 소장품 태그로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "정확한 비례나 사실적인 디테일이 필요한 사진: 제품 사진, 증명사진, 기계 구조",
+      "선명하고 채도 높은 색이나 형광색이 필요한 용도",
+      "상업 로고, 정형화된 마스코트, 캐릭터, 매끈한 벡터를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "علامة الفن الشعبي",
+    "tagline": "يحوّل العنصر الرئيسي في صورتك إلى رمز شعبي ساذج صغير كأنه مطبوع باليد، مع تكبير سمته الأبرز.",
+    "look": "تبقى صورتك، ولا يبقى إلا شكل جوهري واحد أو حركة أو خط خارجي، مع مبالغة لطيفة في السمة التي يُعرف بها، وخطوط مستديرة ونِسب فيها شيء من الخرق، وتوقفات وارتعاشات طبيعية في الخط، كرمز من كتاب مصوّر قديم أو ختم محفور باليد. يُنفَّذ بالغواش الجاف وأقلام الشمع والأقلام الملوّنة، مع ألياف الورق وصبغة طباشيرية وتقطّع خفيف في الحبر وإحساس بطباعة قديمة يشبه الريزوغراف. تتحول ألوان الصورة إلى درجات دافئة قليلة التشبع: عاجي دافئ وأزرق ضبابي وأخضر نباتي ومرجاني ناعم وأصفر فاتح ووردي رمادي وبني طبيعي. الرمز صغير في الوسط أو منحرف عنه، وسط فراغ واسع، ومعه كلمة قصيرة جداً كبطاقة مقتنيات.",
+    "traits": [
+      "فن شعبي ساذج",
+      "ختم يدوي",
+      "رمز من كتاب مصوّر",
+      "حبيبات طباشيرية",
+      "ألوان دافئة"
+    ],
+    "good": [
+      "عناصر لها سمة واحدة واضحة جداً: أرنب طويل الأذنين، سنجاب كثيف الذيل، كوخ بسقف مدبب",
+      "لحظات فيها حركة بسيطة واحدة: شخص يسقي الزرع، دجاجة تنقر، قطة نائمة ملتفّة",
+      "صور تريدها ختماً يدوياً أو بطاقة تغليف صغيرة أو علامة لمجموعة خاصة"
+    ],
+    "poor": [
+      "صور تحتاج نِسباً دقيقة أو تفاصيل واقعية: صور المنتجات، صور الهوية، الأجزاء الميكانيكية",
+      "استخدامات تحتاج ألواناً زاهية مشبعة أو فسفورية",
+      "طلب شعار تجاري أو تميمة نمطية أو شخصية كرتونية أو رسوم متجهية ناعمة"
+    ]
+  }
+}

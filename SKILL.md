@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-289
-description: "Create XXD Panel 289 raster artwork: a faithful photograph paired with one small naive folk symbol, dry gouache, wax crayon and a large quiet field. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-289 or asks for this 民艺记号 style."
+description: "XXD Panel 289｜Folk Mark: keeps the photo and turns its subject into one small naive folk symbol, like a handmade stamp, an old picture-book sign or a private collector's logo — one core form, action or outline with its most identifying feature gently exaggerated, rounded slightly clumsy contours and natural pauses in the line — in dry gouache, wax crayon and coloured pencil with paper fibres, chalky pigment, light ink drop-out and risograph print imperfection, in a warm low-saturation palette of warm ivory, misty blue, plant green, soft coral, pale yellow, grey pink and natural brown from the photo, small in generous whitespace with a tiny collector's-label style word. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-289 or asks for a naive folk icon, handmade print stamp or old picture-book symbol from a photo."
 ---
 
 # XXD Panel 289
